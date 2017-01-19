@@ -42,4 +42,3 @@ chisq.test (2 * traits, p = p, rescale.p = TRUE)
 
 
 
-
